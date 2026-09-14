@@ -35,7 +35,7 @@ metadata:
   categories: Retrieval & Search,Science & Research,Developer Tools
 icon: https://avatars.githubusercontent.com/u/77906174?v=4
 repoURL: https://github.com/exa-labs/exa-mcp-server
-env:
+config:
 - key: EXA_API_KEY
   name: Exa API Key
   required: true
