@@ -43,7 +43,7 @@ config:
   sensitive: true
   description: Your Exa API key.
   secretBinding:
-    name: my-secret 
+    name: my-secret
     key: api_key    
 toolPreview:
 - name: web_search_exa
